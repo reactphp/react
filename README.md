@@ -218,7 +218,7 @@ as the list of stable components may change over time. This meta package can be
 installed like this:
 
 ```bash
-# quick protoyping only: install all stable components
+# quick prototyping only: install all stable components
 composer require react/react:^1.4
 ```
 
